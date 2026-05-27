@@ -1,0 +1,275 @@
+
+=========================================
+SHEET: INTRODUCCIÓN
+=========================================
+Row 10: Col2: RECOMENDACIÓN IMPORTANTE: 
+
+Para garantizar el buen uso de la información, es de vital importancia que NO DESCARGUES ESTE DOCUMENTO. 
+Deberás diligenciarlo directamente en este archivo que se encuentra almacenado en la nube.
+Row 14: Col2: ¿QUÉ DEBES HACER?
+
+=========================================
+SHEET: 1. INFORMACIÓN VITAL
+=========================================
+Row 10: Col2: Cual es el nombre de tu empresa/marca/negocio | Col6: Cuentas con un logotipo para tu empresa/marca/negocio | Col9: ¿Contrataste el servicio de creación de logotipo con Sense Digital?
+Row 11: Col2: FULIMA | Col6: SI | Col7: NO | Col9: SI | Col10: NO
+Row 12: Col6: True | Col9: False | Col10: True
+Row 19: Col2: ¿Que te hace diferente a tu competencia? Un resumen de lo que hace tu empresa. | Col6: Cual es el slogan o mensaje único de ventas de tu empresa/negocio/marca
+Row 20: Col2: Nuestra principal diferencia radica en tres aspectos clave:
+
+Enfoque Global y Multilingüe para la Recaudación: La página está diseñada para ser una plataforma internacional de fundraising, disponible en inglés, español y francés, permitiendo recibir donaciones de dinero desde cualquier parte del mundo.
+
+Transparencia con Evidencia de Impacto: A diferencia de otras plataformas de donación, evidenciamos de manera directa y tangible el impacto de los fondos recaudados. Utilizaremos videos cortos en la página para mostrar los formatos de ayuda que se entregan a los segmentos de mercado (Estrato 1, 2 y 3) a través de la sinergia con Dededar (la entrega de mercados a bajo costo logístico).
+
+No se Limita a una Actividad Específica: La fundación tiene la capacidad de recibir donaciones sin estar limitada a una actividad particular, lo que le da flexibilidad operativa para sostener diferentes iniciativas sociales. | Col6: AYUDANOS A AYUDARLOS 
+Row 22: Col2: No quiero incluir esto | Col4: False | Col6: No quiero incluir esto | Col8: False
+Row 30: Col2: Beneficios  tu producto o servicio. ¿Por qué deberían comprar tu producto/servicio? | Col6: Estos datos le brindarán credibilidad a tu empresa o negocio. Danos algunas cifras que la resalten
+Row 31: Col2: EJEMPLO: | Col3: La calidad de nuestro producto es insuperable. | Col6: EJEMPLO:
+Row 32: Col2: Beneficio 1: | Col3: Transparencia con Evidencia de Impacto: A diferencia de otras entidades, FULIMA ofrece a los donantes la certeza de que su dinero es utilizado de forma efectiva. Se compromete a evidenciar con videos cortos en la propia página web la entrega de las ayudas (los mercados) a las personas beneficiadas. | Col6: Beneficio 1: | Col7: una fundacion sinn animo de lucro que apoya familias en estado de vulneracion - actualmente con escuelas deportivas que incentivan a los jovenes de bajos recursos a participar en sanas actividades 
+Row 33: Col2: Beneficio 2: | Col3: Doble Impacto Social (Sinergia): La donación sostiene una fundación que ataca dos problemas simultáneamente: el desarrollo de jóvenes líderes y la lucha contra el desperdicio de alimentos al ayudar a entregar mercados a familias en Estratos 1, 2 y 3. | Col6: Beneficio 2:
+Row 34: Col2: Beneficio 3: | Col3: Plataforma Global y Multilingüe: FULIMA facilita la donación a donantes internacionales. Su página está diseñada para ser una plataforma de fundraising global, disponible en inglés, español y francés, y tiene botones de donación que permiten enviar dinero desde cualquier parte del mundo. Enfoque en Valores y Propósito: Al donar, el contribuyente apoya una causa que no solo brinda apoyo y protección, sino que también se enfoca en construir disciplina, liderazgo y propósito en los jóvenes, operando bajo el lema "¡Primero Los Niños!". | Col6: Beneficio 3:
+Row 36: Col2: No quiero incluir esto | Col4: False | Col6: No quiero incluir esto | Col8: False
+Row 43: Col2: Dejanos la tipografia que uses para tu marca, Recuerda que podrás encontrar opciones en este link : https://fonts.google.com/ , 
+
+Importante: Valida tu tipografia en google fonts, si nos dejas tipografias que no se encuentren en GOOGLE FONTS 
+NO TE PODEMOS GARANTIZAR QUE SE VEAN EN TODOS LOS DISPOSITIVOS  | Col7: Escoge al menos 2 colores que deseas que utilicemos. En formato hexadecimal, rgba o nombre del color.  Si deseas una guía de colores, puedes ingresar a l siguiente link:  https://paletton.com/ | Col11: Trés páginas web de referencia para el diseño. Deberás incluir el link exacto y descripción de lo que te gustó 
+Row 44: Col2: Elemento | Col3: Opción de fuente 1 | Col4: Opción de fuente 2 | Col5: Opción de fuente 3 | Col8: Hexadecimal, RGBA  o nombre del color | Col11: Link de la página | Col13: ¿Qué te gusta de la página?
+Row 45: Col2: Títulos | Col3: FREDOKA MEDIUM | Col7: Color 1 | Col8: #003366 | Col11: https://plan.org.co/ | Col13: La estructura de la pagina todo el ui/ux
+Row 46: Col2: Subtítulos | Col3: NUNITO SEMIBOLD | Col7: Color 2 | Col8: #FFD700 | Col11: https://accionfamiliar.org/ | Col13: Genera Empatía y Conexión. El uso de imágenes reales, testimonios e historias de casos de éxito crea un vínculo emocional, que es el principal motivador para que alguien decida donar o ayudar.
+Row 47: Col2: Parrafos  | Col3: NUNITO SEMIBOLD | Col7: Color 3 | Col8: #FFFFFF | Col11: https://www.fundana.org/qui%C3%A9nes-somos | Col13: Arquitectura de Información Clara        Secciones bien definidas: "Nuestra Historia", "Programas"
+Row 48: Col3: Que Sense escoja por mi | Col5: False | Col7: Que Sense escoja por mi | Col9: False | Col12: Que Sense escoja por mi | Col14: False
+
+=========================================
+SHEET: 2. DOMINIO Y CORREOS
+=========================================
+Row 10: Col6: ¿Cuentas con un dominio para tu sitio web?
+Row 11: Col6: NO | Col8: SI
+Row 12: Col6: True
+Row 15: Col11: Apuntamiento | Col12: False
+Row 16: Col11: Migración | Col12: False
+Row 19: Col13: TODO CON SENSE
+Row 20: Col3: Por favor escribe 3 opciones de dominio para tu sitio. Ejemplos: www.minegocio.com, wwww.minegocio.com.co, www.minegocio.co, www.mi-negocio.com | Col10: Por favor danos la siguiente información para poder acceder al dominio y/o hosting que ya contrataste previamente:
+Row 21: Col3: Opción 1: | Col4: www.fulima.com | Col10: 1. Sitio web del proveedor del dominio y/o hosting. Ejemplo: godaddy.com
+Row 22: Col3: Opción 2: | Col4: www.fulima.com.co | Col12: 2. Dominio:
+Row 23: Col3: Opción 3: | Col4: www.fulima.co | Col10: 3. Ususario de acceso:
+Row 24: Col10: 4. Clave de acceso:
+Row 25: Col10: 5. Fecha de compra/renovación del dominio:
+Row 26: Col10: 6. URL/ Link de acceso al cpanel :
+Row 27: Col10: 7. Usuario de acceso al Cpanel:
+Row 28: Col10: 8. Clave de acceso al Cpanel:
+Row 29: Col10: 9. ¿Desea tener el servicio de dominio con nosotros desde ahora?:
+Row 37: Col6: ¿Ya tienes correos corporativos?
+Row 38: Col6: SI | Col8: NO
+Row 39: Col6: False | Col8: True
+Row 44: Col10: Cuales correos corporativos deseas que creemos para tu sitio  (Hasta 10). Ejemplo: contacto@minegocio.com.
+Row 45: Col10: Correo 1: | Col11: administrativo@fulima.com | Col13: Correo 6:
+Row 46: Col3: Por favor danos la siguiente información: | Col10: Correo 2: | Col11: logistica@fulima.com | Col13: Correo 7:
+Row 47: Col3: 1. Proveedor con quien contrataste el servicio de correos corporativos. Ejemplo:  Microsoft 365: | Col10: Correo 3: | Col11: operativo@fulima.com | Col13: Correo 8:
+Row 48: Col3: 2. Link desde donde accedes al administrador de este servicio: | Col10: Correo 4: | Col13: Correo 9:
+Row 49: Col3: 3. Usuario de acceso: | Col10: Correo 5: | Col13: Correo 10:
+Row 50: Col3: 4. Contraseña (podrás cambiarla una vez finalizado nuestro trabajo)
+Row 52: Col11: crear un correo de marketing 
+
+=========================================
+SHEET: 3. SERVICIOS
+=========================================
+Row 10: Col2: 
+1. Nombre del servicio: | Col4:         Donaciones e Impacto Social Verificado | Col9: 
+1. Nombre del servicio:
+Row 11: Col2: 2. Describe el servicio y sus características: | Col4: FULIMA es la página web corporativa y visual de la fundación, diseñada para recoger donaciones en Colombia y en el exterior. Sus características principales son: • Es una plataforma multilingüe (disponible en inglés, español y francés). • Incluye botones de donación que permiten a cualquier persona en el mundo donar dinero para sostener la fundación. | Col9: 2. Describe el servicio y sus características:
+Row 13: Col2: 3. Beneficios o ventajas de este servicio: | Col4: • Transparencia Total: Muestra el impacto social de las ayudas a través de vídeos cortos que evidencian la entrega de mercados (actividad realizada con Dededar) a los beneficiarios (estratos 1, 2 y 3). • Acceso Global: Facilita la recepción de donaciones internacionales gracias a su diseño multilingüe y botones de pago. | Col9: 3. Beneficios o ventajas de este servicio:
+Row 14: Col2: 4. ¿Algo más que quieras resaltar de este servicio?  | Col9: 4. ¿Algo más que quieras resaltar de este servicio? 
+Row 15: Col2: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO):  | Col4: Foto que muestre la entrega de un mercado a una familia, con el logo de la fundación en un banner pequeño de fondo. | Col9: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO): 
+Row 20: Col2: 
+1. Nombre del servicio: | Col9: 
+1. Nombre del servicio:
+Row 21: Col2: 2. Describe el servicio y sus características: | Col9: 2. Describe el servicio y sus características:
+Row 23: Col2: 3. Beneficios o ventajas de este servicio: | Col9: 3. Beneficios o ventajas de este servicio:
+Row 24: Col2: 4. ¿Algo más que quieras resaltar de este servicio?  | Col9: 4. ¿Algo más que quieras resaltar de este servicio? 
+Row 25: Col2: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO):  | Col9: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO): 
+Row 30: Col2: 
+1. Nombre del servicio: | Col9: 
+1. Nombre del servicio:
+Row 31: Col2: 2. Describe el servicio y sus características: | Col9: 2. Describe el servicio y sus características:
+Row 33: Col2: 3. Beneficios o ventajas de este servicio: | Col9: 3. Beneficios o ventajas de este servicio:
+Row 34: Col2: 4. ¿Algo más que quieras resaltar de este servicio?  | Col9: 4. ¿Algo más que quieras resaltar de este servicio? 
+Row 35: Col2: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO):  | Col9: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO): 
+Row 40: Col2: 
+1. Nombre del servicio: | Col9: 
+1. Nombre del servicio:
+Row 41: Col2: 2. Describe el servicio y sus características: | Col9: 2. Describe el servicio y sus características:
+Row 43: Col2: 3. Beneficios o ventajas de este servicio: | Col9: 3. Beneficios o ventajas de este servicio:
+Row 44: Col2: 4. ¿Algo más que quieras resaltar de este servicio?  | Col9: 4. ¿Algo más que quieras resaltar de este servicio? 
+Row 45: Col2: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO):  | Col9: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO): 
+Row 50: Col2: 
+1. Nombre del servicio: | Col9: 
+1. Nombre del servicio:
+Row 51: Col2: 2. Describe el servicio y sus características: | Col9: 2. Describe el servicio y sus características:
+Row 53: Col2: 3. Beneficios o ventajas de este servicio: | Col9: 3. Beneficios o ventajas de este servicio:
+Row 54: Col2: 4. ¿Algo más que quieras resaltar de este servicio?  | Col9: 4. ¿Algo más que quieras resaltar de este servicio? 
+Row 55: Col2: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO):  | Col9: 5. Nombre o descripcion de la foto que deseas para este servicio (NO COPIAR LA FOTO EN ESTE ESPACIO): 
+
+=========================================
+SHEET: 4. INFORMACIÓN
+=========================================
+Row 1: Col1: 
+Row 10: Col2: Escribe el texo que quieres que pongamos en la página de Quienes somos | Col6: Información importante de tu empresa
+Row 11: Col2: FULIMA (Fundación Líderes del Mañana) es una entidad legalmente constituida que sirve como plataforma para la recaudación de donaciones globales (disponible en inglés, español y francés) y la sostenibilidad de la fundación. Su principal servicio es transformar estas contribuciones en oportunidades, disciplina, liderazgo y propósito familiar y jóvenes del sur de Bogotá y, a futuro, toda Colombia, centrándose en el lema "¡Primero Los Niños!". Lo que la hace única es su transparencia y sinergia, ya que utiliza vídeos cortos en la web para evidenciar que las donaciones se convierten en ayuda tangible, como mercados, para familias vulnerables de estratos 1, 2 y 3 | Col6: Misión: | Col7: Brindar oportunidades a jóvenes del sur de Bogotá y, a futuro, a toda Colombia. Ofrecer más que entrenamiento deportivo; construir disciplina, liderazgo y propósito , especialmente en entornos difíciles con falta de orientación y acceso a espacios de crecimiento.
+Row 13: Col6: Visión: | Col7: Ser una organización que brinda esperanza y futuro al expandir su labor a toda Colombia  y al sostener la fundación mediante la recaudación de donaciones en el exterior.
+Row 14: Col2: No quiero incluir esto | Col4: False
+Row 15: Col6: Trayectoria: | Col7: Es una organización legalmente constituida  que ha desarrollado contenido (videos) para evidenciar su impacto y que trabaja en sinergia con Dededar. (No se especifican fechas de fundación o logros específicos).
+
+Row 17: Col6: Info. Adicional: | Col7: • Su lema es "¡Primero Los Niños!". 
+ • Es una página visual corporativa que funciona en inglés, español y francés. 
+ • Se enfoca en recoger donaciones en el exterior para sostener la fundación. 
+ • Utiliza videos cortos en su página para evidenciar las ayudas que realiza a través de Dededar (entrega de mercados a Estratos 1, 2 y 3)
+Row 20: Col6: No quiero incluir esto | Col8: False
+Row 27: Col2: ¿Qué datos a solicitar en el formulario de contacto? | Col6: A qué coreo deseas que lleguen los formularios de contacto enviados desde la página?
+Row 28: Col2: EJEMPLO: | Col3: Nombre y apellido
+Row 29: Col2: Dato a solicitar: | Col3: Nombre y apellido | Col6: Correo : | Col7: FULIMASOCIALDATA@GMAIL.COM
+Row 30: Col2: Dato a solicitar: | Col3: Telefono
+Row 31: Col2: Dato a solicitar: | Col3: Email
+Row 32: Col2: Dato a solicitar: | Col3: Mensaje
+Row 40: Col2: Datos para que tus clientes te contacten. | Col6: Redes sociales para que tus clientes te encuentren.
+Row 41: Col2: Teléfono: | Col3: 310 2439078 | Col6: Número de Whatsapp: | Col8: 310 2439078
+Row 42: Col2: E-mail: | Col3: fulimafundacion@gmail.com | Col6: Link de Facebook: | Col8: Facebook
+Row 43: Col2: Dirección: | Col6: Link de Intagram: | Col8: https://www.instagram.com/fundacionfulima/
+Row 44: Col2: Ciudad: | Col3: Bogotá | Col6: Link de Linkedin:
+Row 45: Col2: País: | Col3: Colombia | Col6: Link de Youtube:
+Row 47: Col2: No quiero incluir esto | Col4: False | Col7: No quiero incluir esto | Col9: False
+Row 54: Col6: Dejar ejemplos de testimonios en video
+Row 55: Col2: Los testimonios son un refuerzo a la imagen de tu empresa. Hace que tus futuros clientes confíen en ti. EScribe los testimonios de tus clientes.
+Row 56: Col2: Ejemplo: | Col3: Sense Digital | Col5: Ejemplo: | Col6: Empresa sólida y confiable
+Row 57: Col2: Nombre: | Col5: Testimonio
+Row 58: Col2: Nombre: | Col5: Testimonio
+Row 59: Col2: Nombre: | Col5: Testimonio
+Row 61: Col4: No quiero incluir esto | Col6: True
+Row 67: Col2: POLITICAS DE PRIVACIDAD
+Row 69: Col2: Escribe las políticas de privacidad y tratamiento de datos que deseas incluir en tu página. | Col5:  Si no posees uno, te invitamos a ingresar al 
+siguiente link en el cual podrás 
+crear tus propias políticas.  
+LINK: https://politicadeprivacidadplantilla.com/
+Row 70: Col2: POLÍTICA DE PRIVACIDAD DE FULIMA (FUNDACIÓN)
+
+La presente Política de Privacidad establece los términos en que FULIMA (La Fundación) usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su sitio web. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.
+
+Información que es recogida
+
+Nuestro sitio web podrá recoger información personal por ejemplo: Nombre, información de contacto como su dirección de correo electrónica e información demográfica. Así mismo cuando sea necesario podrá ser requerida información específica para procesar sus donaciones en Colombia y en el exterior o realizar cualquier otra transacción relacionada con el sostenimiento de la fundación.
+
+Uso de la información recogida
+
+Nuestro sitio web emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios y donantes, y mejorar la gestión de los fondos destinados a las ayudas que hacemos a través de DEDE DAR. Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con información sobre nuestros avances, la evidencia de los formatos de ayuda que realizamos (como la entrega de mercados), y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio. Estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.
+
+FULIMA (La Fundación) está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.
+
+Cookies
+
+Una cookie se refiere a un fichero que es enviado con la finalidad de solicitar permiso para almacenarse en su ordenador, al aceptar dicho fichero se crea y la cookie sirve entonces para tener información respecto al tráfico web, y también facilita las futuras visitas a una web recurrente. Otra función que tienen las cookies es que con ellas las web pueden reconocerte individualmente y por tanto brindarte el mejor servicio personalizado de su web.
+
+Nuestro sitio web emplea las cookies para poder identificar las páginas que son visitadas y su frecuencia. Esta información es empleada únicamente para análisis estadístico y después la información se elimina de forma permanente. Usted puede eliminar las cookies en cualquier momento desde su ordenador. Sin embargo las cookies ayudan a proporcionar un mejor servicio de los sitios web, éstas no dan acceso a información de su ordenador ni de usted, a menos de que usted así lo quiera y la proporcione directamente. Usted puede aceptar o negar el uso de cookies, sin embargo la mayoría de navegadores aceptan cookies automáticamente pues sirve para tener un mejor servicio web. También usted puede cambiar la configuración de su ordenador para declinar las cookies. Si se declinan es posible que no pueda utilizar algunos de nuestros servicios.
+
+Enlaces a Terceros
+
+Este sitio web pudiera contener enlaces a otros sitios que pudieran ser de su interés. Una vez que usted dé clic en estos enlaces y abandone nuestra página, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.
+
+Control de su información personal
+
+En cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuestro sitio web. Cada vez que se le solicite rellenar un formulario, como el de alta de usuario o donación, puede marcar o desmarcar la opción de recibir información por correo electrónico. En caso de que haya marcado la opción de recibir nuestro boletín o publicidad usted puede cancelarla en cualquier momento.
+
+Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con una orden judicial.
+
+FULIMA (La Fundación) Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento.
+Row 74: Col2: No quiero incluir esto | Col4: False
+Row 80: Col2: EQUIPO  | Col6: NO COLOCAR
+Row 82: Col2: Si tienes equipo y quieres que lo pongámos en la página de "Quienes somos", llena el siguiente cuadro.
+Row 83: Col2: Nombre: | Col5: Cargo:
+Row 84: Col2: Nombre: | Col5: Cargo:
+Row 85: Col2: Nombre: | Col5: Cargo:
+Row 86: Col2: Nombre: | Col5: Cargo:
+Row 87: Col2: Nombre: | Col5: Cargo:
+Row 88: Col2: Nombre: | Col5: Cargo:
+
+=========================================
+SHEET: 5. ESTRUCTURA DE PÁGINA
+=========================================
+Row 7: Col2: A continuación podrás mosntrarnos cual es la estructura que quieres para tu página. | Col8: Quiero que Sense escoja por mi | Col11: False
+Row 8: Col2: ¿COMO DEBES HACERLO?
+Row 10: Col2: - Puedes hacerla a modo de mapa mental.
+Row 11: Col2: - Puedes copiar y pegar una imágen en donde podamos ver la estructura, como en el siguiente ejemplo:
+Row 14: Col2: EJEMPLO IMÁGEN
+Row 34: Col2: EJEMPLO MAPA MENTAL | Col9: Home/inicio
+Row 37: Col5: Elemento del menu | Col8: Elemento del menu | Col11: Elemento del menu | Col14: Elemento del menu
+Row 39: Col5: Subelemento | Col6: Subelemento | Col8: Subelemento | Col9: Subelemento | Col11: Subelemento | Col12: Subelemento | Col14: Subelemento | Col15: Subelemento
+
+=========================================
+SHEET: 6. INSTRUCTIVO PARA CARGA DE FO
+=========================================
+Row 9: Col4: Todas las imágenes deberán ser cargados a la siguiente carpeta | Col8: En la parte inferior de esta hoja encontraras el espacio para añadir los links de tus videos
+Row 13: Col2: CLICK AQUÍ PARA ABRIR LA CARPETA DE FOTOS E IMAGENES
+Row 23: Col2: IMPORTANTE: No se aceptarán imágenes en formatos distintos a los siguientes: JPG y/o PNG. Las imágenes adjuntas en formatos distintos, no serán tomadas en consideración.
+Row 30: Col2: Encontrarás las siguientes carpetas en las que podrás cargar distintos contenidos.
+Row 31: Col2: IMPORTANTE: Ten encuenta las dimensiones de las imagenes y fotos que se presentan acontinuación, si superan dichas dimensiones no seran cargadas en el sitio web 
+Row 35: Col2: En esta carpeta deberás cargar el logotipo en todas las variaciones, que quieras que usemos en la página. Dimensiones para logos 500 x 500 px  | Col9: En esta carpeta puedes cargar fotos de trabajos que hayas hecho o de clientes satisfechos con tu servicio. Dimensiones maximas: (Imagenes Horizontales: 1920 x 675 px) ; (Imagenes verticales: 800x 1080 px)  
+Row 41: Col2: En esta carpeta puedes cargar la mejores fotos que desees que incluyamos en tu página, en lugares como banners, fondos de secciones y lugares muy importantes del sitio. Dimensiones maximas: (Imagenes Horizontales: 1920 x 675 px) ; (Imagenes verticales: 800x 1080 px)   | Col9: En esta carpeta puedes cargar fotos de trabajos que hayas hecho o de clientes satisfechos con tu servicio.  Dimensiones maximas: (Imagenes Horizontales: 1920 x 675 px) ; (Imagenes verticales: 800x 1080 px)  
+Row 47: Col2: En esta carpeta puedes cargar fotos de tu empresa, tus instalaciones, trabajadores, etc.
+ Dimensiones maximas: (Imagenes Horizontales: 1920 x 675 px) ; (Imagenes verticales: 800x 1080 px)  
+Row 59: Col2: Adjunta el link de youtube de los videos que deseas que incluyamos dentro de tu página. Si aún no los tienes en youtube, deberás crear una cuenta, subirlos y darnos el link.
+Row 60: Col2: Link 1: | Col3: https://youtube.com/shorts/KyAQauaWcPA | Col5: Link 6:
+Row 61: Col2: Link 2: | Col5: Link 7:
+Row 62: Col2: Link 3: | Col5: Link 8:
+Row 63: Col2: Link 4: | Col5: Link 9:
+Row 64: Col2: Link: 5 | Col5: Link 10:
+Row 68: Col2: ¿Por qué mis videos deben estar en youtube?
+Row 70: Col2: Ya que si subimos directamente los archivos de video a tu página, esto podría afectar considerablemente la velocidad de  tu página y darle una mala experiencia  a tus clientes.
+
+=========================================
+SHEET: INFORMACIÓN PARA EL EQUIPO SENS
+=========================================
+Row 1: Col2: ESTE ESPACIO ES EXCLUSIVO PARA EL EQUIPO DE DESARROLLO DE SENSE DIGITAL
+Row 5: Col2: RESUMEN DEL KICK-OFF
+Row 6: Col2: NOTAS
+
+Para el desarrollo del sitio ellos quieren una pagina colorida, con varias aninmaciones. Mirar como podemos manejar la estetica de acuerdo a logo
+
+El sitio web tendra una funcionalidad de donaciones por lo que es importante instalar el plugin de woocomemerce para traer esta funcionalidad. Al pedir el ambiente se debe pedir como ECOMMERCE PARA NO TENER ERRORES y INSTALAR LA PASARELA DE PAGO DE PAYPAL
+
+El cliente comenta que durante las conversaciones de cotizacion el comercial le dijo que dentro del precio venia integrado los 3 idiomas para el sitio web sin embargo esto no se encuentra bajo el contrato
+
+Dejar una seccion de testimonios con videos, se debe dejar ejemplos
+
+El cliente quiere dejar toda la informacion como una onepage es decir todo en una sola pagina y ya las donaciones y compra del producto si dejarlo aparte
+
+En el menu de navegacion hay una pestaña repetida de preguntas frecuentes, La repetida es donde estan los videos de testimonios y entregas, esa pestaña deberia llamarse "Testimonios"
+
+Crear blog con categorias de noticias y eventos
+
+Debajo de los videos de testimonios colcar una galeria de imágenes para el cliente colocar más adelante
+
+PENDIENTES
+
+Enviar archivo word con links para el video de banner para computador y celular
+Enviar archivo word con informacion de las preguntas frecuentes
+Enviar link de facebook
+Enviar credenciales de paypal
+Row 11: Col2: URL DEFINITIVA
+Row 12: Col8: ¿Redirección local?
+Row 13: Col8: SI | Col9: False | Col10: NO | Col11: False
+Row 15: Col2: PLANTILLAS | Col4: RECORDAR SIEMPRE REVISAR LOS REFERENTES VISUALES QUE NOS SUMINISTRÓ ELCLIENTE PARA TENER PRESENTE LA LÍNEA VISUAL/ESTÉTICA QUE SE REQUIERE
+Row 16: Col2: URL Plantilla 1
+Row 17: Col2: URL Plantilla 2
+Row 18: Col2: URL Plantilla 3
+Row 19: Col2: URL Plantilla 4
+Row 20: Col2: URL Plantilla 5
+Row 23: Col2: ACCESOS CORREOS
+Row 24: Col2: Acceso correos:  https://webmail.fulima.com.co/
+
+administrativo@fulima.com.co
+Contraseña: Sa0z@Yp4FNp3
+
+logistica@fulima.com.co
+Contraseña: D,Rxs&WSkzs!
+
+operativo@fulima.com.co
+Contraseña: h83!mCH1mwaU
+

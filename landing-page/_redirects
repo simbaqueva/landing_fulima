@@ -1,0 +1,6 @@
+# Redirects for FULIMA Landing Page
+/    /index.html    200
+
+# External redirects for donation-related traffic
+/donar    https://wa.me/573102439078    302
+/donate  https://wa.me/573102439078    302

@@ -1,0 +1,11 @@
+# FULIMA - Fundación Líderes del Mañana
+# Allow all crawlers to index the site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.fulima.com/sitemap.xml
+
+# Disallow admin/staging paths if any
+Disallow: /admin/
+Disallow: /staging/

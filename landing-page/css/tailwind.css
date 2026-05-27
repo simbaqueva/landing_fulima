@@ -1,0 +1,13 @@
+/* ==========================================
+   FULIMA - Tailwind CSS Input File
+   This file is compiled via PostCSS to produce
+   the production-ready Tailwind bundle.
+   ========================================== */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== CUSTOM THEME EXTENSIONS ===== */
+/* Override the FULIMA brand colors in Tailwind's theme */
+/* These are defined in tailwind.config.js */
