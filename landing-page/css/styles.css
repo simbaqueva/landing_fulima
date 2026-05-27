@@ -198,7 +198,15 @@ img, iframe, video {
 .logo-nav {
     filter: none;
     transition: filter var(--transition-speed) ease;
+    /* Evita que el logo “se salga” visualmente del navbar (especialmente en desktop) */
+    display: block;
+    height: auto;
+    object-fit: contain;
+    /* margen interno para que no toque el borde superior/inferior del header */
+    margin-top: 4px;
+    margin-bottom: 4px;
 }
+
 
 .nav-link {
     position: relative;
